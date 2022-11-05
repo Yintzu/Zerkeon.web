@@ -1,0 +1,7 @@
+{
+  "redirects": [
+    { "source": "https://www.zerkeon.com", "destination": "https://zerkeon.com", "permanent": true },
+    { "source": "http://www.zerkeon.com", "destination": "https://zerkeon.com", "permanent": true },
+    { "source": "www.zerkeon.com", "destination": "https://zerkeon.com", "permanent": true }
+  ]
+}

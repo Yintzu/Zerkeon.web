@@ -25,7 +25,6 @@ export default function App() {
   }
 
   const togglePlay = () => {
-    console.log("first")
     if (isPlaying) {
       mainTheme.pause()
       setIsPlaying(false)
